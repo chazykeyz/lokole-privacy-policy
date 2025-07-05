@@ -1,25 +1,28 @@
-# Privacy Policy for Lokole App  
-_Last Updated: June 2025_
+# Privacy Policy for Lokole App
 
-Lokole App respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Lokole App, available on the Apple App Store and Google Play Store. Please read this policy carefully.
+**Last Updated:** June 2025
+
+Lokole App respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **Lokole App**, available on the Google Play Store.
+
+Please read this policy carefully.
 
 ---
 
 ## 1. Information We Collect
 
-### a. Personal Information  
+### a. Personal Information
 - **Phone Number** – Required for OTP (One-Time Password) login.
 
-### b. Payment & Subscription Information  
-- Lokole App offers **auto-renewable subscription plans** for accessing premium content.
-- All payment processing is handled securely via **Apple In-App Purchase (IAP)**.
-- We **do not collect or store your credit card, Apple ID, or any billing credentials**.
+### b. Payment & Subscription Information
+- Lokole App offers premium content through subscriptions paid via **Selcom Payment Services**.
+- Payments are made directly through your mobile network account using Selcom.
+- **Subscriptions are not auto-renewable**. Once your period expires, you’ll need to pay again through Selcom to maintain access.
+- **We do not collect or store any payment details.** All transactions are securely processed by Selcom Payment Services.
 
 ---
 
 ## 2. How We Use Your Information
 
-We use your information to:  
 - Authenticate and verify your identity via OTP  
 - Grant access to subscription-based gossip and premium content  
 - Improve app performance and user experience  
@@ -27,65 +30,70 @@ We use your information to:
 
 ---
 
-## 3. Subscription Details  
+## 3. Subscription and Billing
 
-- Lokole App provides **premium content based on auto-renewable subscriptions** via Apple.  
-- Subscriptions are **billed automatically** unless cancelled at least 24 hours before the renewal date.  
-- Users can **cancel or manage their subscriptions** anytime through **Apple device Settings > Apple ID > Subscriptions**.
-
----
-
-## 4. Sharing Your Information  
-
-We do **not sell** your data to third parties. However, we may share your data with:  
-- **Apple** (for billing, compliance, analytics)  
-- **Legal authorities**, if required by law or to protect user or system rights  
+- Lokole App offers premium content through subscriptions using **Selcom Payment Services**.  
+- Payment is charged to your mobile account via Selcom at the time of purchase.  
+- **Subscriptions are not auto-renewable.** When the subscription period ends, you must make a new payment via Selcom to continue using premium features.  
+- You can pay through your mobile network provider using Selcom’s secure and approved payment system.  
+- We do **not store or process your payment credentials** directly; all billing is managed entirely by Selcom.  
 
 ---
 
-## 5. Data Storage & Security  
+## 4. Sharing Your Information
 
-- We implement industry-standard security to protect your data.  
-- However, no platform is 100% secure. You are responsible for safeguarding your device and credentials.  
+We **do not sell your data** to third parties. However, we may share your information with:
 
----
-
-## 6. Retention of Data  
-
-- We retain data as long as necessary for business, legal, or security reasons.  
-- You can request your data be deleted by contacting us below.  
+- **Selcom** (for secure billing, verification, and compliance)  
+- **Legal authorities**, if required by law or to protect users and systems  
 
 ---
 
-## 7. Children’s Privacy  
+## 5. Data Storage & Security
 
-Lokole is **not intended for users under the age of 13**.  
-We do not knowingly collect personal data from children. If discovered, such data will be deleted promptly.  
-
----
-
-## 8. Your Rights  
-
-You have the right to:  
-- Request access to your personal data  
-- Ask for correction or deletion of your data  
-- Withdraw your consent at any time (which may affect app usage)  
-
-To exercise your rights, contact us via the email below.
+- We use **industry-standard methods** to secure your data and protect your privacy.  
+- However, no platform is entirely secure.  
+- **You are responsible** for protecting your device and login credentials.  
 
 ---
 
-## 9. Contact Us  
+## 6. Retention of Data
 
-If you have questions or concerns about this Privacy Policy or your data, please contact:
-
-**Developer:** Charles Japhet Charles  
-**Email:** chazykeyz12@gmail.com  
-**Phone:** +255 787 064 145  
+- We retain data as needed for operational, legal, and security purposes.  
+- You may request that your data be deleted by contacting us.  
 
 ---
 
-## 10. Changes to This Policy  
+## 7. Children’s Privacy
 
-We may update this Privacy Policy occasionally. We will notify you by updating the “Last Updated” date above.  
-Your continued use of the App after changes signifies acceptance of the updated policy.
+- Lokole is **not intended for users under the age of 13**.  
+- We do not knowingly collect personal information from children.  
+- If such data is discovered, it will be promptly deleted.  
+
+---
+
+## 8. Your Rights
+
+You have the right to:
+
+- Request access to the personal data we hold about you  
+- Request correction or deletion of your data  
+- Withdraw consent at any time (which may affect how you use the app)  
+
+To exercise any of the above rights, please contact us using the information below.
+
+---
+
+## 9. Contact Us
+
+If you have questions or concerns about this Privacy Policy, please contact:
+
+**Lokole Investment**  
+📧 Email: [info@lokoleapp.online](mailto:info@lokoleapp.online)
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy occasionally. Any changes will be reflected by the “Last Updated” date above.  
+**Continued use of the app means you accept the revised policy.**
